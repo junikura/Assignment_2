@@ -1,4 +1,4 @@
-**Assignment_2
+**Assignment_2**
 
 
 **This will be an explanation of how Assignment_1 was completed by Juntaro Ikura**
@@ -13,9 +13,9 @@
 Sublime Text was used to generate the individual .sh file's mentioned above, and each of them were run in the command line prompt. 
 
 **Q1.sh** 
-	#In Q1, the question asked to provide a script that took the parking_data.csv (already provided) and use it as a positional parameter so we can use it inside of the command line prompt. 
-
-	#The parking_data.csv was given a positional parameter of "$1" so that when we reference that in the code, when inputted in the command line in the first position parameter spot, it can be executed. For this question, we typed in "Q1.sh parking_data.csv". "Q1.sh" is the script file that we wanted to run. and "parking_data.csv" is the first positional parameter spot that was referenced inside of the Q1.sh file. Inside the script, the code simply outputted all the results from the parking_data.csv file by referring to the $1 positional parameter. 
+	In Q1, the question asked to provide a script that took the parking_data.csv (already provided) and use it as a positional parameter so we can use it inside of the command line prompt. 
+	
+	The parking_data.csv was given a positional parameter of "$1" so that when we reference that in the code, when inputted in the command line in the first position parameter spot, it can be executed. For this question, we typed in "Q1.sh parking_data.csv". "Q1.sh" is the script file that we wanted to run. and "parking_data.csv" is the first positional parameter spot that was referenced inside of the Q1.sh file. Inside the script, the code simply outputted all the results from the parking_data.csv file by referring to the $1 positional parameter. 
 
 
 **Q2a.sh**
