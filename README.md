@@ -1,7 +1,8 @@
 **Assignment_2**
 
 **Description**
-	This will be an explanation of how Assignment_1 was completed by Juntaro Ikura
+
+This will be an explanation of how Assignment_1 was completed by Juntaro Ikura
 
 **Usages**
 
